@@ -1,0 +1,21 @@
+.rw-conversation-container .rw-header{background-color: #167ffc;}
+
+.rw-widget-container {
+  width: 50%;
+  height: 100%;
+  max-height: none;
+  margin: 0 10px 20px 0;
+}
+
+.rw-conversation-container {
+  width: 100%;
+  height: 86%;
+  max-height: none;
+}
+.rw-conversation-container .rw-messages-container {
+  width: 100%;
+  max-height: 422px;
+}
+.rw-conversation-container .rw-messages-container .rw-message .rw-client{background-color: #167ffc;}
+.rw-launcher{background-color:  #167ffc;}
+.rw-conversation-container .rw-reply{background-color: #167ffc; border: 1px solid #167ffc;}
